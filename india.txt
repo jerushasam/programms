@@ -3,3 +3,4 @@ national bird:  peacock
 national animal: tiger
 national game:hockey
 capital:  delhi
+states: chennai, delhi, calcutta
