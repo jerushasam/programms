@@ -4,3 +4,4 @@ national animal: tiger
 national game:hockey
 capital:  delhi
 states: chennai, delhi, calcutta
+language :tamil,hindhi
